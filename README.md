@@ -3,7 +3,7 @@
 To de-indentify data in a database.
 
 ## Steps
-1. Look up all the table you would like to modify, and save it in a csv file named `TABLE-COLUMN-TO-MODIFY.csv` at `./src`. An Example .csv file is provided at `./reference/TABLE-COLUMN-TO-MODIFY.csv` file.
+1. Look up all the table you would like to modify, and save it in a csv file named `TABLE-COLUMN-TO-MODIFY.csv` at `./src/`. An Example .csv file is provided at `./reference/TABLE-COLUMN-TO-MODIFY.csv` file.
 2. Run the Python script `./src/main.py`.
 3. In `./src/script.sql` and run it in your databases.
 
